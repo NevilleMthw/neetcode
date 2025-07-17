@@ -8,3 +8,7 @@ class Solution:
         ans = nums * 2
 
         return ans
+
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
