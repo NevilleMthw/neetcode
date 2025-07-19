@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def twoSum(nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         sumHash = {} # value : index {3:0, 4:1, 5:2, 6:3}
 
         # We need index and value
