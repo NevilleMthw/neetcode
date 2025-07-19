@@ -19,3 +19,5 @@ class Solution:
 
 solution = Solution()
 solution.twoSum(nums=[3, 4, 5, 6], target=7)
+
+# Time and space: O(n)
