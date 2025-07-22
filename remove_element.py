@@ -1,6 +1,6 @@
 from typing import List
 
-
+# Not using two pointers - not optimal
 class Solution:
     @staticmethod
     def remove_element(nums: List[int], val: int) -> int:
